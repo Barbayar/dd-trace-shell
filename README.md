@@ -10,9 +10,9 @@ Example
 --------
 ```
 go build .
-./dd-trace-shell brew
+./dd-trace-shell brew update
 ```
 
 Result
 ------
-![Screenshot 2021-12-17 at 12 31 08](https://user-images.githubusercontent.com/1836721/146539179-186416fe-729f-41fd-92ba-fbec9599ea94.png)
+![Screenshot 2021-12-17 at 13 30 04](https://user-images.githubusercontent.com/1836721/146544964-7827f5b6-5901-4bf2-af82-389f2579c06c.png)
